@@ -11,9 +11,4 @@ function Box({fill ="black",curved,text}) {
 }
 
 
-
-Box.defaultProps = {
-    fill: "black"
-}
-
 export default Box;
